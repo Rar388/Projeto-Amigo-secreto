@@ -4,7 +4,6 @@ let tag = document.querySelector('h2')
 tag.innerHTML = 'Digite o nome dos seus amigos abaixo';
 let listaDeAmigos = [];
 
-
 function adicionarAmigos() { 
   let input = document.querySelector('input'); 
   let amigo = input.value
@@ -28,7 +27,10 @@ function listaAmigos() {
     ul.appendChild(li); 
   }
 }
-
+function limparCampo() { 
+  let input = document.querySelector('input');
+  input.value = '';
+}
 
 
 
