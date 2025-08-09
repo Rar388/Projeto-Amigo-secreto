@@ -9,7 +9,7 @@ function adicionarAmigos() {
   let input = document.querySelector('input'); 
   let amigo = input.value
 
-  if (amigo === '') { 
+  if (amigo == '') { 
     alert('Por favor, digite um nome antes de adicionar.'); 
   } else { 
     listaDeAmigos.push(amigo);
