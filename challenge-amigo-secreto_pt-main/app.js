@@ -1,7 +1,7 @@
 let texto = document.querySelector('h1')
    texto.innerHTML = 'Bem Vindo ao Amigo Secreto!'
    let tag = document.querySelector('h2')
-   tag.innerHTML = 'Digite o nome dos seus amigos';
+   tag.innerHTML = 'Digite o nome dos seus amigos:';
 let listaDeAmigos = [];
 
 
@@ -44,7 +44,7 @@ function sortearAmigo() {
   let nomeAleatorio = listaDeAmigos[gerarNomeAleatorio]; 
 
   let li = document.createElement('li');
-  li.textContent = `🥳🎉 O nome sorteado é: ${nomeAleatorio}`;
+  li.textContent = `🥳🎉 O nome secreto sorteado é: ${nomeAleatorio}`;
   ul.appendChild(li);
 }
 
