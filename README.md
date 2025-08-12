@@ -33,8 +33,8 @@ Projeto web simples e divertido para realizar sorteios de amigo secreto. Ideal p
 
 ## 🌐 Como acessar pela WEB
 
-- Uma outra alternativa que disponibilizamos para que você possa ter um acesso rápido e prático do Amigo Secreto é através de uma versão feita com deploy no Vercel.
-- Clique no link com deploy: <https://projeto-amigo-secreto-pv4t.vercel.app/>
+- Uma outra alternativa que disponibilizamos para que você possa ter um acesso rápido e prático do Amigo Secreto é através de uma versão criada para deploy no Vercel.
+- Clique no link para deploy: <https://projeto-amigo-secreto-pv4t.vercel.app/>
 
 ---
 
