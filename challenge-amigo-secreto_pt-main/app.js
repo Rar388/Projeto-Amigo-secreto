@@ -1,9 +1,10 @@
 // Editar o cabeçalho e  parágrafo
 let texto = document.querySelector('h1')
-   texto.innerHTML = 'Bem Vindo ao Amigo Secreto!'
-   let tag = document.querySelector('h2')
-   tag.innerHTML = 'Digite o nome dos seus amigos:';
+    texto.innerHTML = 'Bem Vindo ao Amigo Secreto!'
+    let tag = document.querySelector('h2')
+    tag.innerHTML = 'Digite o nome dos seus amigos:';
 let listaDeAmigos = [];
+let nomesInseridos = listaDeAmigos.length === 0;
 
 // Função para adicionar amigos "se" o campo estiver preenchido
 function adicionarAmigos() { 
@@ -35,10 +36,9 @@ function listaAmigos() {
 function sortearAmigo() { 
   let ul = document.getElementById('resultado');
   ul.innerHTML = ''; 
-
-  if (listaDeAmigos.length === 0) { 
-    alert('Por favor, insira nomes para sortear.'); 
-    return; 
+  if (listaDeAmigos.length <= 1 && nomesInseridos) { 
+    alert('Por favor, insira nomes suficientes para o sorteio acontecer.'); 
+    return;
   }
 
   let gerarNomeAleatorio = Math.floor(Math.random() * listaDeAmigos.length);
