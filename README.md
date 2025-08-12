@@ -25,7 +25,7 @@ Projeto web simples e divertido para realizar sorteios de amigo secreto. Ideal p
 
 - Passo 1. Clone o repositório: Copie a seguinte URL: **`https://github.com/Rar388/Projeto-Amigo-secreto.git`**. Logo em seguida, abra sua Área de trabalho e, com o botão direito, abra o terminal do seu computador. Depois insira o seguinte comando: **git clone `https://github.com/seu-usuario/amigo-secreto.git`**
 
-- Passo 2. Localize a pasta "Projeto Amigo secreto" no seu Explorador de Arquivos e faça o acesso.
+- Passo 2. Localize a pasta "challenge-amigo-secreto_pt-main" no seu Explorador de Arquivos e faça o acesso.
 
 - Passo 3. Por fim, vá até os arquivos contidos na pasta e, com o botão direito, abra o arquivo index.html em seu navegador preferido e divirta-se com o nosso jogo do Amigo Secreto.
   
