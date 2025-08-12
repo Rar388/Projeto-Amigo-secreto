@@ -36,3 +36,19 @@ Projeto web simples e divertido para realizar sorteios de amigo secreto. Ideal p
 Veja o GIF abaixo demonstrando o funcionamento do Amigo Secreto:
 
 ![demo-do-projeto](https://github.com/user-attachments/assets/d41e9bd5-1ec5-4166-a76b-ad28b24953f1)
+
+---
+
+## ❓ Dúvidas Frequentes (FAQ)
+
+**Por que o botão "Sortear Amigo" não faz nada?**  
+Isso acontece quando não há nomes suficientes na lista. Adicione pelo menos dois nomes para que o sorteio funcione.
+
+**O estilo da página sumiu. O que fazer?**  
+Verifique se o arquivo `style.css` está no mesmo diretório e/ou se o caminho está correto no HTML.
+
+**Recebo um alerta de nome inválido mesmo após digitar. Por quê?**  
+Pode ser que você tenha inserido apenas espaços. Tente digitar um nome real com letras.
+
+**Como posso realizar novos sorteios?**
+Atualize a página apertando no botão "F5" do seu desktop ou clique no botão do canto superior esquerdo da janela do navegador, próximo à barra de endereço. E então, realize um novo sorteio.
