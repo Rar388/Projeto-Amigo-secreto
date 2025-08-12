@@ -47,7 +47,7 @@ Isso acontece quando não há nomes suficientes na lista. Adicione pelo menos do
 **O estilo da página sumiu. O que fazer?**  
 Verifique se o arquivo `style.css` está no mesmo diretório e/ou se o caminho está correto no HTML.
 
-**Recebi um alerta de nome inválido mesmo após digitar. Por quê?**  
+**Recebo um alerta de nome inválido mesmo após digitar. Por quê?**  
 Pode ser que você tenha inserido apenas espaços. Tente digitar um nome real com letras.
 
 **Como posso realizar novos sorteios?**
