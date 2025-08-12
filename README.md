@@ -21,7 +21,7 @@ Projeto web simples e divertido para realizar sorteios de amigo secreto. Ideal p
 
 ---
 
-## 📦 Como Usar
+## 📦 Como Usar Pelo Github
 
 - Passo 1. Clone o repositório: Copie á seguinte URL: **`https://github.com/Rar388/Projeto-Amigo-secreto.git`**. Logo em seguida, abra sua Área de trabalho e, com o botão direito, abra o terminal do seu computador. Depois insira o seguinte comando: **git clone **`https://github.com/seu-usuario/amigo-secreto.git`**
 
